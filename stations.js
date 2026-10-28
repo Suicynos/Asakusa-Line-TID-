@@ -74,7 +74,7 @@ const ASAKUSA_RAILWAY = "odpt.Railway:Toei.Asakusa";
 // 表示させたい駅があれば追記すること。
 const OTHER_OPERATOR_STATION_NAMES = {
   // 京急（泉岳寺から先、西馬込方面と反対側で直通）
-  "odpt.Station:Keikyu.Main.Shinaga": "品川",
+  "odpt.Station:Keikyu.Main.Shinagawa": "品川",
   "odpt.Station:Keikyu.Main.KeikyuKamata": "京急蒲田",
 　"odpt.Station:Keikyu.Main.Kamioooka": "上大岡",
 　"odpt.Station:Keikyu.Main.Yokohama": "横浜",
